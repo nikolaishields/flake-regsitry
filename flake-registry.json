@@ -1,0 +1,16 @@
+{
+  "flakes": [
+    {
+      "from": {
+        "type": "indirect",
+        "id": "nixpkgs"
+      },
+      "to": {
+        "type": "github",
+        "owner": "nikolaishields",
+        "repo": "nixos-config"
+      }
+    }
+  ],
+  "version": 2
+}
