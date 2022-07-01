@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "flakes": [
     {
       "from": {
@@ -11,6 +12,5 @@
         "repo": "nixos-config"
       }
     }
-  ],
-  "version": 2
+  ]
 }
